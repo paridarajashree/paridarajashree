@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paridarajashree
-- 👀 I’m interested in Bangalore, Ind
+- 👀 I’m staying in Bangalore, Ind
 - 🌱 I’m currently learning Java, Selenium
 
 <!---
